@@ -18,7 +18,8 @@ sections:
 - type: intro
   template: intro
   title: Crude Oil Trust
-  subtitle: "Oil is a valuable molecule.  \n  \nWe're the hands to hold it."
+  subtitle: "Oil is a rare and valuable molecule.  \n  \nWe're the right hands to
+    hold it."
   section_id: intro
   background_style: style1
   actions:
