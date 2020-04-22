@@ -18,8 +18,8 @@ sections:
 - type: intro
   template: intro
   title: Crude Oil Trust
-  subtitle: "Oil is a rare and valuable molecule.  \n  \nWe protect this resource
-    until it can be used for the common good."
+  subtitle: "Oil is a valuable resource.  \n  \nBurning it up would be crazy.  \n
+    \ \nSo we protect oil until it can be used for the common good."
   section_id: intro
   background_style: style1
   actions:
